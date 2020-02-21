@@ -1,0 +1,58 @@
+[
+   {
+      "importe":2000.0,
+      "fechaPago":"2020-02-10 00:00:00",
+      "cobro":{
+         "nombreConducto":"deposito"
+      }
+   },
+   {
+      "importe":1500.0,
+      "fechaPago":"2020-02-10 00:00:00",
+      "cobro":{
+         "nombreConducto":"efectivo"
+      }
+   },
+   {
+      "importe":100.0,
+      "fechaPago":"2020-02-10 00:00:00",
+      "cobro":{
+         "nombreConducto":"deposito"
+      }
+   },
+   {
+      "importe":200.0,
+      "fechaPago":"2020-02-10 00:00:00",
+      "cobro":{
+         "nombreConducto":"deposito"
+      }
+   },
+   {
+      "importe":300.0,
+      "fechaPago":"2020-02-10 00:00:00",
+      "cobro":{
+         "nombreConducto":"deposito"
+      }
+   },
+   {
+      "importe":500.0,
+      "fechaPago":"2020-02-10 00:00:00",
+      "cobro":{
+         "nombreConducto":"deposito"
+      }
+   },
+   {
+      "importe":800.0,
+      "fechaPago":"2020-02-10 00:00:00",
+      "cobro":{
+         "nombreConducto":"efectivo"
+      }
+   },
+   {
+      "importe":300.0,
+      "fechaPago":"2020-02-10 00:00:00",
+      "cobro":{
+         "nombreConducto":"deposito"
+      }
+   }
+]
